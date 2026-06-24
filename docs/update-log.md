@@ -1,5 +1,90 @@
 # Update Log
 
+## 2026-06-24 - Agent Workflow and Language Policy
+
+### Summary
+
+本次新增仓库级 agent 工作规则和语言分层规则。
+
+### Added
+
+- `AGENTS.md`：定义长期 agent 工作规则、数据层原则、AI evaluation policy、reproducibility rules 和 commit checks。
+- `skills/`：新增 8 个 agent-facing workflow files：
+  - `skills/research-direction-analysis.md`
+  - `skills/literature-harvesting.md`
+  - `skills/paper-classification.md`
+  - `skills/codebase-analysis.md`
+  - `skills/ai-evaluation.md`
+  - `skills/roadmap-building.md`
+  - `skills/csv-data-management.md`
+  - `skills/reproducibility-tracking.md`
+- `docs/language-policy.md`：明确机器执行规则用英文，研究内容沉淀用中文。
+
+### Updated
+
+- `README.md` 增加 Agent Workflow 和语言分层入口。
+- `templates/*.md` 的人读标题和小节改为中文优先。
+
+### Policy
+
+- Human-facing Markdown outputs should be written primarily in Chinese.
+- Agent-facing workflow documents should be written in English.
+- CSV column names remain in English.
+- Established abbreviations such as EOB, GSF, BHPT, QNM, NR, PN, PM, EFT, EMRI, LISA should not be translated.
+
+### Check Results
+
+Command: `test -f AGENTS.md && test -f docs/language-policy.md && test -f skills/*.md`
+
+Result: required agent files exist.
+
+Command: `rg -n "## Language Policy" AGENTS.md`
+
+Result: `AGENTS.md` contains `## Language Policy`.
+
+Command: `rg -n "Human-facing Markdown outputs should be written primarily in Chinese" skills/*.md`
+
+Result: all 8 skill files contain the human-facing Markdown language rule.
+
+Command: template heading check
+
+Result: templates now use Chinese human-facing headings such as `论文笔记`, `代码库笔记`, `AI 初评`, `复现记录`, `路线图`, and `研究方向`.
+
+Command: `python3 scripts/check_csv_integrity.py`
+
+Result:
+
+```text
+CSV integrity check
+target: data/papers/eob_candidates.csv
+rows: 443
+columns: 20
+empty url rows: 0
+empty pdf_url rows: 0
+RESULT: OK
+```
+
+Command: `python3 scripts/check_links.py`
+
+Result:
+
+```text
+checked urls: 1925
+RESULT: OK
+```
+
+Command: `python3 scripts/summarize_eob_csv.py`
+
+Result: completed, total rows = 443.
+
+Command: `python3 scripts/build_topic_index.py`
+
+Result:
+
+```text
+generated topics/eob/generated-index.md rows=443
+```
+
 ## 2026-06-24 - Research Knowledge Base Upgrade
 
 ### Summary

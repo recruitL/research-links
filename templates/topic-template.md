@@ -1,53 +1,53 @@
-# Topic: <Name>
+# 研究方向：<Name>
 
-## Basic Info
+## 基本信息
 
 - Topic:
 - Scope:
 - Main data files:
 - Main roadmaps:
 
-## One-sentence Summary
+## 一句话总结
 
-TODO: one sentence describing the topic.
+TODO: 用一句中文描述这个方向。
 
-## Core Questions
+## 核心问题
 
 - Question 1:
 - Question 2:
 
-## Technical Role
+## 技术地位
 
-TODO: explain why this topic matters in the broader research program.
+TODO: 说明该方向在整体研究计划中的作用。
 
-## Key Equations / Concepts
+## 主要公式与概念
 
 - Concept:
 - Equation:
 - Diagnostic:
 
-## Relation to Other Papers / Topics
+## 与其他文献/方向的关系
 
 - Previous:
 - Follow-up:
 - Competing approaches:
 - Later code implementation:
 
-## Relevance to My Work
+## 与我当前工作的关系
 
-TODO: state concrete relation to current or planned projects.
+TODO: 说明与当前或计划项目的具体关系。
 
-## AI Evaluation
+## AI 初评
 
 - Initial rating: X
 - Summary:
 - Risk of misunderstanding:
 
-## Human Check
+## 人工校验
 
 - Status: not yet human-checked
 
-## Reproduction Status
+## 复现状态
 
 - Status: not_started
 - Candidate codebases:

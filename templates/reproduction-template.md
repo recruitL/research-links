@@ -1,6 +1,6 @@
-# Reproduction Note: <Item>
+# 复现记录：<Item>
 
-## Basic Info
+## 基本信息
 
 - Target paper/code:
 - Topic:
@@ -8,40 +8,40 @@
 - Date started:
 - Environment:
 
-## One-sentence Summary
+## 一句话总结
 
-TODO: what result or code path is being reproduced.
+TODO: 说明要复现的结果、公式或代码路径。
 
-## Technical Role
+## 技术地位
 
-TODO: explain why this reproduction matters.
+TODO: 说明这个复现为什么重要。
 
-## Key Equations / Concepts
+## 主要公式与概念
 
 - Equation:
 - Numerical method:
 - Diagnostic:
 
-## Relation to Other Papers
+## 与其他文献的关系
 
 - Previous:
 - Follow-up:
 - Code implementation:
 
-## Relevance to My Work
+## 与我当前工作的关系
 
-TODO: explain whether this supports current diagnostics, model comparison, or future extensions.
+TODO: 说明它支持当前 diagnostics、模型比较还是未来扩展。
 
-## AI Evaluation
+## AI 初评
 
 - Rating: X
 - Risk:
 
-## Human Check
+## 人工校验
 
 - Status: not yet human-checked
 
-## Reproduction Status
+## 复现状态
 
 - Status: not_started
 - Expected output:

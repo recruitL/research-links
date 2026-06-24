@@ -1,6 +1,6 @@
-# Codebase Note: <Name>
+# 代码库笔记：<Name>
 
-## Basic Info
+## 基本信息
 
 - Name:
 - URL:
@@ -9,52 +9,53 @@
 - Maintainer:
 - Status:
 
-## Main Purpose
+## 主要用途
 
-TODO: describe what the codebase is for.
+TODO: 描述这个代码库解决什么问题。
 
-## Installation
+## 安装与运行
 
 - Environment:
 - Install command:
+- Example command:
 - Known blockers:
 
-## Theory Background
+## 理论背景
 
-TODO: list papers, equations, model assumptions and calibration data used by the code.
+TODO: 列出相关论文、公式、模型假设和 calibration data。
 
-## Input / Output
+## 输入与输出
 
 - Inputs:
 - Outputs:
 - Important configuration options:
 
-## Modifiability
+## 可修改性
 
 - Can modify Hamiltonian:
 - Can modify flux/radiation reaction:
 - Can modify waveform attachment:
 - Test coverage:
 
-## Relation to My Work
+## 与我当前工作的关系
 
-TODO: distinguish diagnostic use from a complete self-consistent waveform model.
+TODO: 明确它是 diagnostic、benchmark、reference implementation 还是可改造代码；不要把局部诊断写成完整自洽模型。
 
-## AI Evaluation
+## AI 初评
 
 - Rating: X
 - Summary:
 - Risk:
 
-## Human Check
+## 人工校验
 
 - Status: not yet human-checked
 - Notes:
 
-## Usage Notes
+## 使用记录
 
-TODO: commands, examples and local paths.
+TODO: 记录命令、示例、输出和本地路径。
 
-## Problems / Blockers
+## 问题与阻塞
 
-TODO: record installation, licensing, numerical or theory blockers.
+TODO: 记录安装、license、数值、理论或接口阻塞。

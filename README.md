@@ -44,6 +44,33 @@ Topic pages are curated interpretive views and must not replace the CSV data lay
 5. 用 `scripts/` 检查 CSV 和生成轻量索引。
 6. 把复现状态记录到 `reproducibility/`。
 
+## Agent Workflow
+
+本仓库包含 `AGENTS.md` 和 `skills/`，用于标准化后续 Codex/agent 更新流程。以后新增研究方向时，应先读 `AGENTS.md`，再按以下工作流执行：
+
+1. `skills/research-direction-analysis.md`
+2. `skills/literature-harvesting.md`
+3. `skills/paper-classification.md`
+4. `skills/codebase-analysis.md`
+5. `skills/ai-evaluation.md`
+6. `skills/roadmap-building.md`
+7. `skills/csv-data-management.md`
+8. `skills/reproducibility-tracking.md`
+
+The agent must preserve CSV datasets and keep AI evaluation separate from human judgment.
+
+## 语言分层
+
+一句话：机器执行规则用英文，研究内容沉淀用中文。
+
+- 面向人类阅读的研究分析内容，默认使用中文。
+- 面向机器或代理执行的规则文件，例如 `AGENTS.md` 和 `skills/*.md`，使用英文。
+- CSV 字段名保持英文，便于脚本处理。
+- CSV 中的自然语言内容可以中文优先。
+- 技术术语可以保留英文原词，并优先给出中文解释。
+
+详细规则见 [docs/language-policy.md](docs/language-policy.md)。
+
 ## Topics
 
 | Topic | Entry | Data |

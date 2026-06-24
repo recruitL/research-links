@@ -1,6 +1,6 @@
-# Paper Note: <Title>
+# 论文笔记：<Title>
 
-## Basic Info
+## 基本信息
 
 - Title:
 - Authors:
@@ -10,32 +10,32 @@
 - Topic:
 - Tags:
 
-## One-sentence Summary
+## 一句话总结
 
-TODO: write one sentence after reading the abstract and introduction.
+TODO: 阅读摘要和引言后，用一句中文概括本文做了什么。
 
-## Technical Role in the Field
+## 技术地位
 
-TODO: identify whether this is a foundational paper, method paper, comparison paper, code paper, review, or application.
+TODO: 判断本文是 foundational paper、method paper、comparison paper、code paper、review 还是 application。
 
-## Main Equations / Concepts
+## 主要公式与概念
 
 - Key equations:
 - Key approximations:
 - Key diagnostics:
 
-## Relation to Other Papers
+## 与其他文献的关系
 
 - Previous:
 - Follow-up:
 - Competing approaches:
 - Later code implementation:
 
-## Relevance to My Work
+## 与我当前工作的关系
 
-TODO: explain connection to current EOB/GSF/BHPT/QNM/PM/LISA work.
+TODO: 说明它与当前 EOB/GSF/BHPT/QNM/PM/LISA 路线的具体关系。
 
-## AI Evaluation
+## AI 初评
 
 ### AI Summary
 
@@ -49,17 +49,17 @@ TODO: what the AI summary likely captured correctly.
 
 TODO: what the AI may have missed or oversimplified.
 
-### Risk of Misunderstanding
+## 可能误读点
 
-TODO: note risks such as confusing relation with equivalence, approximation with proof, or diagnostic replacement with full model.
+TODO: 标记 AI 或快速阅读可能误解的地方，例如把相关性当作等价性、把近似当作证明、把 Hamiltonian-only diagnostic 当作完整 waveform model。
 
-## Human Check
+## 人工校验
 
 - Status: not yet human-checked
 - Checked sections:
 - Corrections to AI summary:
 
-## Reproduction Status
+## 复现状态
 
 - Status: not_started
 - Notes:

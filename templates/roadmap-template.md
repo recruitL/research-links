@@ -1,35 +1,35 @@
-# Roadmap: <Title>
+# 路线图：<Title>
 
-## Motivation
+## 动机
 
-TODO: why this roadmap matters.
+TODO: 说明为什么需要这条路线图。
 
-## Technical Chain
+## 技术链条
 
 1. Step:
 2. Step:
 
-## Key Concepts
+## 关键概念
 
 - Concept:
 
-## Representative Papers
+## 代表文献
 
 - TODO: add verified papers.
 
-## Codebases
+## 相关代码库
 
 - TODO: add verified codebases.
 
-## Relation to My Work
+## 与我当前工作的关系
 
-TODO: explain direct relevance.
+TODO: 说明直接关系。
 
-## Open Problems
+## 开放问题
 
 - TODO:
 
-## Data Source Links
+## 数据入口
 
 - Paper data:
 - Codebase data:
