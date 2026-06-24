@@ -13,7 +13,7 @@
 
 | Topic | Page | Scope |
 | --- | --- | --- |
-| EOB | [topics/eob.md](topics/eob.md) | Effective One Body 方法从提出、波形建模到与 NR/GSF 结合的发展脉络 |
+| EOB | [topics/eob.md](topics/eob.md) | Effective One Body 方法从提出、波形建模到与 NR/GSF 结合的发展脉络；候选表见 [data/eob_arxiv_candidates.csv](data/eob_arxiv_candidates.csv) |
 | GSF | [topics/gsf.md](topics/gsf.md) | Gravitational self-force 的基础方程、正则化方法、综述和应用参考 |
 
 ## Link Format
