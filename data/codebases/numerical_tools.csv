@@ -1,0 +1,2 @@
+name,url,language,main_use,status,installation_difficulty,theory_transparency,modifiable,relation_to_my_work,ai_evaluation,human_check,notes
+Python/SciPy stack,https://scipy.org,Python,"Numerical linear algebra, ODEs, fitting",active,low,high,yes,Useful for reproducing toy models and diagnostics,B,checked generally,"General numerical tool, not field-specific"

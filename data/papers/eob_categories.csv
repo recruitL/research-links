@@ -1,0 +1,11 @@
+category,sub_category,arxiv_id,title,year,technical_role,notes
+EOB foundation / Hamiltonian / PN-PM,original mapping,gr-qc/9811091,Effective one-body approach to general relativistic two-body dynamics,1998,EOB map and Hamiltonian foundation,
+EOB foundation / Hamiltonian / PN-PM,plunge dynamics,gr-qc/0001013,Transition from inspiral to plunge in binary black hole coalescences,2000,Inspiral-plunge modeling,
+resummation / flux / factorized waveform,factorized waveform,0811.2069,Improved resummation of post-Newtonian multipolar waveforms,2008,Factorized/resummed multipolar waveform,
+NR calibration / EOBNR / SEOBNR / TEOBResumS,NR calibration,0902.0790,Effective-one-body waveforms calibrated to numerical relativity simulations,2009,NR-calibrated EOB,
+GSF / gauge-invariant comparison / EOB potentials,EOB potentials,1209.0964,Gravitational self-force and the effective-one-body formalism between ISCO and light ring,2012,GSF constraints on EOB potential,
+spin / precession,nonprecessing spin,1406.6913,A new effective-one-body description of coalescing nonprecessing spinning black-hole binaries,2014,Spinning EOB model,
+tides / BNS / NSBH,tidal EOB,0911.5041,Effective One Body description of tidal effects in inspiralling compact binaries,2009,Tidal interactions in EOB,
+eccentric / scattering / generic orbits,generic orbit,2503.14580,Effective-one-body modeling for generic compact binaries with arbitrary orbits,2025,Generic compact-binary EOB,needs metadata verification
+EMRI / test-mass / EOB-Teukolsky,EOB-Teukolsky,2606.09445,A self-consistent EOB--Teukolsky framework for generic extreme mass-ratio inspirals,2026,EOB-Teukolsky bridge,needs human check
+data analysis / ROM / surrogate / speed,speed,2606.02690,Speed and accuracy for long signals: Frequency-domain effective-one-body waveforms,2026,Frequency-domain acceleration,needs human check

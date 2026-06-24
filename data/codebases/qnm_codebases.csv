@@ -1,0 +1,2 @@
+name,url,language,main_use,status,installation_difficulty,theory_transparency,modifiable,relation_to_my_work,ai_evaluation,human_check,notes
+Black Hole Perturbation Toolkit,https://bhptoolkit.org,Mathematica/Python/C++ mix,QNM-related resources,active portal,medium,medium,yes,QNM method notes and possible ringdown checks,C/B,not yet,Seed entry; add qnm-specific packages later

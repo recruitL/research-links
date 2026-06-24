@@ -1,0 +1,2 @@
+name,url,language,main_use,status,installation_difficulty,theory_transparency,modifiable,relation_to_my_work,ai_evaluation,human_check,notes
+Black Hole Perturbation Toolkit,https://bhptoolkit.org,Mathematica/Python/C++ mix,BHPT/GSF tools and references,active portal,medium,high,yes,GSF-informed EOB and EMRI context,B: useful; needs tool-specific review,not yet,Seed entry

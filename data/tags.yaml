@@ -1,0 +1,26 @@
+topics:
+  - EOB
+  - GSF
+  - BHPT
+  - QNM
+  - PM/EFT
+  - LISA
+  - Numerical methods
+
+eob_tags:
+  - foundations_hamiltonian_pn_pm
+  - resummation_flux_waveform
+  - nr_calibration_eobnr_seobnr_teobresums
+  - gsf_gauge_invariants
+  - spin_precession
+  - tides_neutron_stars
+  - eccentric_hyperbolic_scattering
+  - emri_test_mass_teukolsky
+  - data_analysis_lvkc
+
+review_tags:
+  - needs verification
+  - not yet human-checked
+  - AI initial screening only
+  - reproduction candidate
+  - codebase candidate

@@ -1,0 +1,20 @@
+paper_status:
+  candidate: "Automatically harvested or rough-screened."
+  selected: "Selected for closer reading."
+  reading: "Currently being read."
+  reviewed: "Human reading note exists."
+  reproduced: "Core result or code path reproduced."
+  blocked: "Progress blocked; see notes."
+
+ai_rating:
+  A: "must read / central"
+  B: "useful / relevant"
+  C: "background"
+  D: "peripheral"
+  X: "unclear / unreliable / needs human check"
+
+human_checked:
+  "no": "No human check yet."
+  partial: "Partially checked."
+  "yes": "Human verified."
+  needs_expert_check: "Needs deeper expert review."

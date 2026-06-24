@@ -1,0 +1,4 @@
+arxiv_id,title,authors,year,url,journal,topic,tags,role,status,relevance,note
+gr-qc/9606018,Gravitational Radiation Reaction to a Particle Motion,Y. Mino; M. Sasaki; T. Tanaka,1996,https://arxiv.org/abs/gr-qc/9606018,gr-qc,GSF,foundations;MiSaTaQuWa,foundational equation,selected seed,central,MiSaTaQuWa seed
+gr-qc/9610053,An axiomatic approach to electromagnetic and gravitational radiation reaction of particles in curved spacetime,T. C. Quinn; R. M. Wald,1996,https://arxiv.org/abs/gr-qc/9610053,gr-qc,GSF,foundations;Quinn-Wald,axiomatic derivation,selected seed,central,Quinn-Wald seed
+1805.10385,Self-force and radiation reaction in general relativity,L. Barack; A. Pound,2018,https://arxiv.org/abs/1805.10385,gr-qc,GSF,review,modern review,selected seed,high,review seed

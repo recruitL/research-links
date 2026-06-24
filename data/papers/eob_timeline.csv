@@ -1,0 +1,10 @@
+year,stage,arxiv_id,title,technical_role,why_important,notes
+1998,Original EOB formulation,gr-qc/9811091,Effective one-body approach to general relativistic two-body dynamics,Defines EOB mapping and effective Hamiltonian.,Starting point of EOB formalism.,
+2000,Inspiral-plunge transition,gr-qc/0001013,Transition from inspiral to plunge in binary black hole coalescences,Uses EOB for plunge modeling.,Connects conservative dynamics to waveform transition.,
+2008,Factorized/resummed waveform,0811.2069,Improved resummation of post-Newtonian multipolar waveforms from circularized compact binaries,Introduces key resummation structure.,Core waveform-building technology.,
+2009,NR calibration,0902.0790,Effective-one-body waveforms calibrated to numerical relativity simulations,Calibrates EOB to NR.,Begins mature EOBNR calibration program.,
+2012,GSF-informed EOB potentials,1209.0964,Gravitational self-force and the effective-one-body formalism between ISCO and light ring,Uses GSF data to constrain EOB potentials.,Bridge between GSF and comparable-mass EOB.,
+2016,SEOBNRv4,1611.03703,"An improved effective-one-body model of spinning, nonprecessing binary black holes",Detector-era nonprecessing spin model.,Widely used LVK waveform family.,
+2018,TEOBResumS,1806.01772,Time-domain effective-one-body gravitational waveforms for coalescing compact binaries,Alternative resummed EOB family with tides.,Important comparison family.,
+2023,SEOBNRv5,2303.18039,Laying the foundation of SEOBNRv5,Modern efficient SEOBNR foundation.,Relevant to Hamiltonian replacement diagnostics.,
+2025,Generic-orbit EOB,2503.14580,Effective-one-body modeling for generic compact binaries with arbitrary orbits,Generic compact binaries with arbitrary orbits.,Relevant to eccentric/scattering extensions.,
