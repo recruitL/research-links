@@ -1,5 +1,38 @@
 # Update Log
 
+## 2026-06-25 - QNM EP / VAM-TTM Research Topic
+
+### Summary
+
+新增 `QNM EP / 谱不稳定 / VAM-TTM` 子方向，用于整理 exceptional points、QNM 谱不稳定、pseudospectrum、semi-open SdS、virtual absorption modes 和 total transmission modes 的技术脉络。
+
+### Added
+
+- `topics/qnm-ep-vam-ttm/`：新增中文 topic 页面，包括 README、timeline、problem-map、method-map、literature、codebases、ai-review、open-questions 和 notes 入口。
+- `roadmaps/qnm-ep-vam-ttm.md`：新增专项 roadmap。
+- `data/papers/qnm_ep_vam_ttm_candidates.csv`：新增候选论文数据。
+- `data/papers/qnm_ep_vam_ttm_selected.csv`：新增精选论文数据。
+- `data/papers/qnm_ep_vam_ttm_timeline.csv`：新增时间线数据。
+- `data/papers/qnm_ep_vam_ttm_categories.csv`：新增技术分类数据。
+
+### Updated
+
+- `topics/qnm/README.md`：加入 EP/VAM-TTM 子方向入口。
+- `roadmaps/qnm-methods.md`：加入 EP、pseudospectrum 和 VAM/TTM 的代表文献和专项 roadmap 链接。
+- `README.md`：加入 QNM EP/VAM-TTM topic 和 roadmap 入口。
+- `data/site/research_topics.yml`：更新 QNM 展示数据源，并新增独立 `qnm-ep-vam-ttm` 展示条目，供个人网站生成 `/research/qnm-ep-vam-ttm/`。
+- `data/tags.yaml`：加入 QNM EP/VAM-TTM 标签。
+
+### Sources Checked
+
+- arXiv pages/API for `2004.06434`, `2107.09673`, `2308.16227`, `2404.01374`, `2407.15191`, `2407.20850`, `2503.21276`, `2504.06072`, `2507.11663`, `2509.06411`, `2509.19451`, `2511.17067`, `2512.02110`, `2512.06903`, `2512.16372`, `2603.22261`, and `2603.22897`.
+
+### Policy
+
+- 新增 Markdown 研究分析内容使用中文。
+- CSV 字段名保持英文，CSV 自然语言内容中文优先。
+- 所有新文献当前均为 AI 初筛或 seed selection，`human_checked` 仍为 `no`。
+
 ## 2026-06-24 - Agent Workflow and Language Policy
 
 ### Summary

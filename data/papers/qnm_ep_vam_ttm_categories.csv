@@ -1,0 +1,16 @@
+category,sub_category,arxiv_id,title,year,technical_role,notes
+pseudospectrum / 谱不稳定,operator pseudospectrum,2004.06434,Pseudospectrum and black hole quasi-normal mode (in)stability,2020,非自伴算子谱稳定性基础,主线基础。
+pseudospectrum / 谱不稳定,RN universality,2107.09673,Pseudospectrum of Reissner-Nordström black holes,2021,推广到带电黑洞,相关基础。
+pseudospectrum / 谱不稳定,physical interpretation,2404.01374,On the physical significance of black hole quasinormal mode spectra instability,2024,讨论谱不稳定的物理意义,防止误读。
+EP / avoided crossing / resonance,avoided crossing and resonance,2407.15191,Resonant Excitation of Quasinormal Modes of Black Holes,2024,把 avoided crossing 与 EP 共振激发相连,用户优先阅读 1。
+EP / avoided crossing / resonance,Kerr EP and hysteresis,2407.20850,Exceptional point and hysteresis in perturbations of Kerr black holes,2024,Kerr massive scalar EP 与 hysteresis,额外检索加入。
+EP / avoided crossing / resonance,Riemann surface branches,2504.06072,Black hole quasinormal mode resonances,2025,EP 附近模式分支和 Riemann surface,用户优先阅读 2。
+EP / avoided crossing / resonance,exceptional line and topology,2511.17067,Exceptional line and pseudospectrum in black hole spectroscopy,2025,exceptional line、Berry phase、pseudospectrum 标度,额外检索加入。
+Ringdown modeling / time domain,destructive resonance,2503.21276,Unstable chords and destructive resonant excitation of black hole quasinormal modes,2025,势扰动下 QNM 展开不稳定和破坏性共振,用户主线。
+Ringdown modeling / time domain,Kerr extraction,2509.06411,Resonance in black hole ringdown,2025,EP 附近 Kerr ringdown overtone 提取,额外检索加入。
+Ringdown modeling / time domain,EP ansatz,2512.02110,Exceptional Points and Resonance in Black Hole Ringdown,2025,EP ringdown 框架和时间域增强模式,用户主线。
+SdS semi-open / complex reflectivity,SdS EP,2512.06903,Quasinormal modes of Schwarzschild-de Sitter black holes in semi-open systems,2025,复反射率 K、模式交换、Puiseux 标度,用户当前 SdS 线核心。
+VAM / TTM,total absorption,2509.19451,Total absorption of tailored incoming signals by black holes,2025,VAM/TTM 主线入口,用户主线。
+VAM / TTM,TTM pseudospectrum,2512.16372,Pseudospectrum and (in)stability of black hole total transmission modes,2025,TTM 稳定性和 condition number,用户主线。
+VAM / TTM,SdS VAM,2603.22897,Virtual absorption modes of Schwarzschild-de Sitter spacetimes in semi-open systems,2026,SdS 半开放系统中的 VAM,额外检索加入。
+Extensions / broader EP examples,hairy black holes,2603.22261,Exceptional Points in Quasinormal Spectra of Hairy Black Holes,2026,hairy BH QNM EP 和 EP ansatz,补充背景。

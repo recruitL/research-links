@@ -1,0 +1,17 @@
+year,stage,arxiv_id,title,technical_role,why_important,notes
+1999,早期谱不稳定警示,,Quantifying excitations of quasinormal mode systems,Nollert-Price 通过势扰动/激发问题提醒 QNM 系统对小尺度结构敏感。,为后来的 pseudospectrum 语言提供历史背景。,待补 DOI 和正式元数据。
+2020,pseudospectrum 基础,2004.06434,Pseudospectrum and black hole quasi-normal mode (in)stability,把 QNM 谱稳定性写成非自伴算子的 pseudospectrum 问题。,建立本方向的数学语言。,主线基础。
+2021,RN 推广,2107.09673,Pseudospectrum of Reissner-Nordström black holes,把谱不稳定诊断推广到带电黑洞。,说明方法不只属于 Schwarzschild。,相关基础。
+2024,物理意义澄清,2404.01374,On the physical significance of black hole quasinormal mode spectra instability,讨论谱不稳定和可观测信号之间的关系。,避免过度解读谱点漂移。,补充必读。
+2024,Kerr EP/hysteresis,2407.20850,Exceptional point and hysteresis in perturbations of Kerr black holes,在 Kerr massive scalar QNM 中识别 EP 与 hysteresis。,把 EP 放进 Kerr 参数空间。,额外检索加入。
+2024,QNM resonance/EP,2407.15191,Resonant Excitation of Quasinormal Modes of Black Holes,把 avoided crossing 解释为 EP 附近的共振激发。,开启 2024 后 QNM EP/ringdown 热点。,用户主线。
+2025,势扰动和不稳定展开,2503.21276,Unstable chords and destructive resonant excitation of black hole quasinormal modes,研究小势扰动下 QNM 展开不稳定和共振激发。,连接谱不稳定与 QNM 展开可靠性。,用户主线。
+2025,Riemann surface 框架,2504.06072,Black hole quasinormal mode resonances,讨论 avoided crossings、EP 和同一 Riemann surface 的不同分支。,QNM EP 框架核心入口。,用户主线。
+2025,ringdown extraction benchmark,2509.06411,Resonance in black hole ringdown,在 Kerr ringdown 中检验 EP 附近共振激发与 overtone 提取。,把频域结构转成时间域拟合问题。,额外检索加入。
+2025,VAM/TTM 主线,2509.19451,Total absorption of tailored incoming signals by black holes,研究 tailored incoming signal 的 total absorption/virtual absorption。,VAM/TTM 入口。,用户主线。
+2025,exceptional line,2511.17067,Exceptional line and pseudospectrum in black hole spectroscopy,研究 exceptional line、Berry phase 和 EP 附近 pseudospectrum 标度。,把 EP 拓扑与谱稳定性连接。,额外检索加入。
+2025,EP ringdown 建模,2512.02110,Exceptional Points and Resonance in Black Hole Ringdown,提出 EP ringdown 框架并强调本征函数近合并。,标准 QNM 展开在 EP 附近的建模修正。,用户主线。
+2025,SdS 半开放 EP,2512.06903,Quasinormal modes of Schwarzschild-de Sitter black holes in semi-open systems,用复反射率 K 在半开放 SdS 系统中寻找二阶 EP。,对应用户当前 EP/SdS 线。,用户主线。
+2025,TTM 谱稳定性,2512.16372,Pseudospectrum and (in)stability of black hole total transmission modes,用 pseudospectrum 和 condition number 研究 TTM 稳定性。,判断 VAM/TTM 根的可信度。,用户主线。
+2026,hairy BH EP,2603.22261,Exceptional Points in Quasinormal Spectra of Hairy Black Holes,在 hairy black hole QNM 谱中识别 EP 并测试 EP ansatz。,说明 EP ringdown 语言向其他背景扩展。,补充。
+2026,SdS VAM,2603.22897,Virtual absorption modes of Schwarzschild-de Sitter spacetimes in semi-open systems,研究半开放 SdS 中的 virtual absorption modes。,与 SdS EP 和 TTM 主线直接相邻。,额外检索加入。

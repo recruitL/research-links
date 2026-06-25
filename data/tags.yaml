@@ -24,3 +24,19 @@ review_tags:
   - AI initial screening only
   - reproduction candidate
   - codebase candidate
+
+qnm_ep_vam_ttm_tags:
+  - qnm
+  - ringdown
+  - pseudospectrum
+  - spectral_instability
+  - exceptional_point
+  - avoided_crossing
+  - exceptional_line
+  - non_self_adjoint_operator
+  - hyperboloidal_framework
+  - schwarzschild_de_sitter
+  - semi_open_system
+  - virtual_absorption
+  - total_transmission_mode
+  - condition_number

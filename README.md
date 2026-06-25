@@ -79,6 +79,7 @@ The agent must preserve CSV datasets and keep AI evaluation separate from human 
 | GSF | [topics/gsf/README.md](topics/gsf/README.md) | [data/papers/gsf_candidates.csv](data/papers/gsf_candidates.csv) |
 | BHPT | [topics/bhpt/README.md](topics/bhpt/README.md) | [data/papers/bhpt_candidates.csv](data/papers/bhpt_candidates.csv) |
 | QNM | [topics/qnm/README.md](topics/qnm/README.md) | [data/papers/qnm_candidates.csv](data/papers/qnm_candidates.csv) |
+| QNM EP / VAM-TTM | [topics/qnm-ep-vam-ttm/README.md](topics/qnm-ep-vam-ttm/README.md) | [data/papers/qnm_ep_vam_ttm_candidates.csv](data/papers/qnm_ep_vam_ttm_candidates.csv) |
 | PM/EFT | [topics/pm-eft/README.md](topics/pm-eft/README.md) | [data/papers/pm_eft_candidates.csv](data/papers/pm_eft_candidates.csv) |
 | LISA | [topics/lisa/README.md](topics/lisa/README.md) | [data/papers/lisa_candidates.csv](data/papers/lisa_candidates.csv) |
 | Numerical methods | [topics/numerical-methods/README.md](topics/numerical-methods/README.md) | [data/codebases/numerical_tools.csv](data/codebases/numerical_tools.csv) |
@@ -90,6 +91,7 @@ The agent must preserve CSV datasets and keep AI evaluation separate from human 
 - [GSF from MiSaTaQuWa to second order](roadmaps/gsf-from-mi-sa-ta-qu-wa-to-second-order.md)
 - [BHPT to GSF](roadmaps/bhpt-to-gsf.md)
 - [QNM methods](roadmaps/qnm-methods.md)
+- [QNM EP / spectral instability / VAM-TTM](roadmaps/qnm-ep-vam-ttm.md)
 - [EOB-Teukolsky connection](roadmaps/eob-teukolsky-connection.md)
 - [LISA waveform modeling](roadmaps/lisa-waveform-modeling.md)
 
